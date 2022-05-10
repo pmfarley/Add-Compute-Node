@@ -3,11 +3,11 @@
 Adding a compute node to an OpenShift Cluster with Assisted Installer
 
 Perform the following steps to add new hosts to an OpenShift cluster. 
-This process will generate a new Discovery ISO that you will use to "Add hosts” to your OpenShift cluster from the Red Hat Hybrid Cloud Console on console.redhat.com/openshift.
+This process will generate a new Discovery ISO that you will use to "Add hosts” to your OpenShift cluster from the Red Hat Hybrid Cloud Console on https://console.redhat.com/openshift.
 
 ## **Step 1.  Open the Red Hat Hybrid Cloud Console**
 
-Open the Assisted Installer page:  console.redhat.com/openshift.
+Open the Assisted Installer page:  https://console.redhat.com/openshift.
 
 ## **Step 2. Select Cluster**
 
