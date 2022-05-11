@@ -78,7 +78,7 @@ You can also use the oc command line utility to approve the pending CSR request.
 ![image](https://user-images.githubusercontent.com/48925593/167687483-928a4a4e-34c0-4d63-be7d-24054e7dd460.png)
 
 
-## **Step 10. Complete. Node Ready**
+## **Step 11. Complete. Node Ready**
 
 When this process is complete, the new host should be in a ‘**Ready**’ state.  
 
